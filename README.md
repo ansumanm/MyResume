@@ -17,7 +17,9 @@
 
 ## Professional Experience
 
-- **VMware, Bangalore (Senior Member of Technical Staff, Oct 2020 - Present)**: Full stack development on VMware Developer Portal, offering SDKs, tools, docs, and APIs. Utilized Nginx, Liferay, Go, Echo, Angular, Typescript, JavaScript, HTML, CSS, GoLang, Java, Git, and Gitlab CI/CD. Conducted unit testing with Go's framework.
+- **IBM, Bangalore (Senior Software Engineer, July 2024 - Present)**: Backend mainframe developer, TCP/IP, Hypervisor, Assembly.
+
+- **VMware, Bangalore (Senior Member of Technical Staff, Oct 2020 - June 2024)**: Full stack development on VMware Developer Portal, offering SDKs, tools, docs, and APIs. Utilized Nginx, Liferay, Go, Echo, Angular, Typescript, JavaScript, HTML, CSS, GoLang, Java, Git, and Gitlab CI/CD. Conducted unit testing with Go's framework.
 
 - **Juniper Networks, Bangalore (Senior Software Engineer, June 2013 - Sept 2020)**: Senior Developer for Junos Management Plane focusing on CLI, Configuration database, NETCONF, YANG. Worked with C, C++, Python on Linux and FreeBSD, using Python and Expect for unit testing.
 
